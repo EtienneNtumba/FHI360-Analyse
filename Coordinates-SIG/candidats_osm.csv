@@ -1,0 +1,107 @@
+﻿zone_sante,site,couche,nom_osm,osm_id,latitude_osm,longitude_osm,score_nom,distance_m
+Bunia,CSR Lembabo,localite,Lembeo,node/1157841684,2.400871,28.717931,0.77,
+Bunia,CSR Lembabo,localite,Mulembo,node/1157866568,0.622972,29.873861,0.71,
+Bunia,CSR Lembabo,localite,Bulemba,node/1157932873,0.901667,29.77475,0.71,
+Bunia,HGR Bunia,localite,Bunia,node/83529422,1.562053,30.247884,1.0,1508
+Bunia,HGR Bunia,localite,Bunzi,node/5821931230,0.505346,29.386785,0.8,151783
+Bunia,HGR Bunia,localite,Bunga,node/1157841502,3.353432,28.796299,0.8,254777
+Bunia,Bora-Uzima,localite,Orimba,node/1157841705,3.539716,30.487943,0.62,
+Bunia,Centre Sante Rwambuzi,sante,Centre De Nyarambe,node/6337598797,2.246108,31.127631,0.67,
+Bunia,Centre Sante Rwambuzi,localite,Nanzia Centre,node/1157841302,3.163477,28.54042,0.65,
+Bunia,CT Kigonze,localite,Killomine,node/1157935468,1.795833,30.121389,0.62,
+Bunia,CTE Rwankole,localite,Mangole,node/5808425881,0.563585,29.26011,0.67,155083
+Bunia,Centre de Traitement Ebola (CTE) Elikia,localite,Likpi,node/1157936831,1.936111,30.426944,0.73,45941
+Bunia,Centre de Traitement Ebola (CTE) Elikia,localite,Buliki,node/1157931783,1.423444,29.827528,0.67,47435
+Bunia,Centre de Traitement Ebola (CTE) Elikia,localite,Bikima,node/5881283886,1.071823,29.924977,0.67,65202
+Gety,HGR Getty Etat,sante,Hopital Général de Référence de Gety,node/3678715093,1.218399,30.156128,0.73,2275
+Gety,CSR Kagaba,localite,Kagaba,node/1157931492,1.290528,30.225111,1.0,7
+Gety,CSR Kagaba,localite,Angaba,node/1157861175,2.202222,31.205556,0.83,148831
+Gety,CSR Kagaba,localite,Akaba,node/1157862515,2.985714,30.634993,0.73,193922
+Gety,CSR Avekba,localite,Aveba,node/1157931856,1.212457,30.088578,0.91,91
+Gety,CSR Avekba,localite,Akaba,node/1157862515,2.985714,30.634993,0.73,206359
+Gety,CSR Avekba,localite,Eveka,node/1154436198,3.47881,28.370459,0.73,316096
+Gety,CSR Olongba,localite,Olongba,node/1157938948,1.330855,30.12555,1.0,0
+Gety,CSR Olongba,localite,Loinga,node/1157861845,1.949389,30.8095,0.77,102516
+Gety,CSR Olongba,localite,Loga,node/5881229186,1.684767,30.406272,0.73,50223
+Gety,CSR Songolo,localite,Golo,node/1157934285,1.676111,30.597722,0.73,57082
+Gety,CSR Songolo,localite,Golo,node/1157859313,1.870528,30.645778,0.73,74461
+Gety,CSR Songolo,localite,Kongoli,node/4408597813,2.769451,27.609238,0.71,320804
+MONGBWALU,CS Ngamau,localite,Ngamu,node/1157939303,1.928694,30.484306,0.91,67597
+MONGBWALU,CS Ngamau,localite,Ngaluma,node/5829226841,2.18325,27.973638,0.77,213002
+MONGBWALU,CS Ngamau,sante,CS NANA,node/6374000342,1.431893,30.472483,0.75,93101
+MONGBWALU,CSR Lodjo,localite,Lodo,node/1157858430,1.908944,30.7555,0.89,83949
+MONGBWALU,CSR Lodjo,localite,Londoni,node/1157859663,2.053944,30.624639,0.67,67562
+MONGBWALU,CSR Lodjo,localite,Loko,node/1157937581,1.713194,30.648167,0.67,80438
+MONGBWALU,CS Yedy,localite,Yedi,node/1157932566,2.066608,29.982404,0.75,44562
+MONGBWALU,CS Yedy,sante,Centre de Santé Yetsu,node/3312427514,3.019998,30.646128,0.67,150418
+MONGBWALU,CS Andisa,sante,Centre de Santé Atsinia,node/3312427509,3.016084,30.622788,0.74,136446
+MONGBWALU,CS Andisa,localite,Ndima,node/1157931755,2.026722,30.240278,0.73,30545
+MONGBWALU,CS Andisa,localite,Kanda,node/1157861084,2.208417,30.124139,0.73,30945
+MONGBWALU,CTE HGR Mongbwalu,localite,Mongbwalu,node/3384368752,1.936853,30.045831,1.0,
+MONGBWALU,CTE HGR Mongbwalu,localite,Ngbala,node/1157934169,1.71582,30.51011,0.67,
+MONGBWALU,CTE HGR Mongbwalu,localite,Mbau,node/626508813,0.652909,29.49875,0.62,
+MONGBWALU,CS Ituri,sante,Centre de Santé de Teturi,node/3381333466,1.055607,29.146257,0.82,142506
+MONGBWALU,CS Ituri,localite,Kituti,node/6056522299,0.574838,29.966994,0.73,156774
+MONGBWALU,CS Ituri,localite,Wiri,node/1157938637,1.927778,30.4125,0.67,42865
+Nizi,HGR Nizi,localite,Nizi,node/1157938915,1.768333,30.287222,1.0,2292
+Nizi,HGR Nizi,sante,Hôpital Général de Nia-Nia,node/3381333470,1.404297,27.603017,0.8,302660
+Nizi,HGR Nizi,localite,Ngiri,node/1157858309,2.130417,30.635028,0.67,55673
+Nizi,Lopa CS,localite,Lopa,node/1157934089,1.737278,30.339611,1.0,136
+Nizi,Lopa CS,localite,Lopa,node/1157861474,2.019389,30.676917,1.0,48779
+Nizi,Lopa CS,sante,Centre de santé de Loga,node/5881229078,1.683018,30.405307,0.86,9544
+NIZI,CS HERITAGE,sante,Centre de santé de Heritage,node/5881271255,1.728792,30.323363,1.0,425
+NIZI,CS HERITAGE,localite,Dhera,node/1157932858,1.712222,30.584361,0.62,29373
+NIZI,CS HERITAGE,localite,Dhera,node/1157858383,2.11775,30.608472,0.62,54028
+NIZI,CT LINGO,localite,Bingo,node/626545213,0.52201,29.319925,0.8,
+NIZI,CT LINGO,localite,Linga,node/1157858727,2.027417,30.739889,0.8,
+NIZI,CT LINGO,localite,Linga,node/1157861962,2.275556,31.088056,0.8,
+NIZI,CS IGA MISSION,sante,CH LAKARMISSION,node/6374058433,0.504999,29.471191,0.69,165814
+NIZI,CS IGA MISSION,sante,CLIN LAKAMISSION,node/6374102962,0.509231,29.457044,0.67,166333
+NIZI,CS IGA MISSION,sante,CS NYAMUSASI,node/6374000333,1.424141,30.455277,0.62,36964
+Nyankunde,CSR de Tumbyabu,localite,Kitumba,node/5881300181,0.963849,29.982274,0.67,62297
+Nyankunde,CSR de Tumbyabu,localite,Mbau,node/626508813,0.652909,29.49875,0.67,112576
+Nyankunde,CSR de Tumbyabu,localite,Mbabune,node/5794010165,2.829215,27.632155,0.67,302116
+Nyankunde,CSR Nyankunde,localite,Nyankunde,node/1157938730,1.432,30.03342,1.0,99
+Nyankunde,CSR Nyankunde,sante,Nyankunde,node/2678619342,1.431464,30.032786,0.82,166
+Nyankunde,CSR Nyankunde,education,ISTM Nyankunde,node/4008476554,1.536065,30.252305,0.69,26915
+Nyankunde,CSR Kombokabo,localite,Kombokabo,node/1157931535,1.469206,30.107615,1.0,64
+Nyankunde,CSR Kombokabo,localite,Kolokabo,node/5938262061,1.335391,30.255824,0.82,22236
+Nyankunde,CSR Kombokabo,localite,Yombiabo,node/1157933279,1.571833,30.033167,0.71,14050
+Nyankunde,CSR de Cezabo,localite,Lengabo,node/1157936410,1.501687,30.199687,0.62,23813
+Nyankunde,CSR de Cezabo,localite,Tenambo,node/5852012826,0.729259,29.553423,0.62,88727
+Nyankunde,CTE HGR Nyakunde,localite,Nyankunde,node/1157938730,1.432,30.03342,0.94,
+Nyankunde,CTE HGR Nyakunde,sante,Nyankunde,node/2678619342,1.431464,30.032786,0.76,
+Nyankunde,CTE HGR Nyakunde,sante,Hôpital Général de Nia-Nia,node/3381333470,1.404297,27.603017,0.63,
+Nyankunde,CT Sota,localite,Sola,node/1157861302,2.012528,30.735222,0.75,
+Nyankunde,CT Sota,localite,Solia,node/1157866705,0.567228,29.845945,0.67,
+Nyankunde,CT Sota,localite,Tsokpa,node/1157859072,1.906361,30.7555,0.6,
+Nyankunde,ISTM Nyakunde,education,ISTM Nyankunde,node/4008476554,1.536065,30.252305,0.96,
+Nyankunde,ISTM Nyakunde,localite,Nyankunde,node/1157938730,1.432,30.03342,0.94,
+Nyankunde,ISTM Nyakunde,sante,Nyankunde,node/2678619342,1.431464,30.032786,0.73,
+Rwampara,CSR Dele,localite,Dele,node/1157931382,1.522565,30.267864,1.0,540
+Rwampara,CSR Dele,localite,Ndrele,node/1157861802,2.171667,30.938889,0.8,103870
+Rwampara,CSR Dele,localite,Chele Chele,node/1157936343,1.54,30.2425,0.67,3932
+Rwampara,HGR Rwampara,localite,Rwampara,node/1157937400,1.405422,30.345143,1.0,24021
+Rwampara,HGR Rwampara,localite,Rawampara,node/1157935583,1.541667,30.175,0.94,436
+Rwampara,HGR Rwampara,sante,Bcz Rwampara,node/4764355621,1.543457,30.179316,0.75,84
+Rwampara,CSR Hoho,localite,Tchoro,node/1157935368,1.736361,30.591444,0.6,
+Rwampara,CSR Hoho,localite,Kitoho,node/5908908625,0.638138,29.494627,0.6,
+TCHOMIA,PS du Lac,sante,PS PATRICK,node/6374102562,0.511255,29.441462,0.62,154978
+TCHOMIA,CSR de Kasenyi,localite,Kasenyi,node/1157932555,1.390253,30.43825,1.0,125
+TCHOMIA,CSR de Kasenyi,sante,CSR KASENYI,node/6374000288,1.388799,30.431817,1.0,697
+TCHOMIA,CSR de Kasenyi,sante,CS KASENYI,node/6374000524,1.396024,30.443042,0.81,808
+TCHOMIA,CSR de Kasenyi cité,sante,CSR KASENYI,node/6374000288,1.388799,30.431817,0.81,5177
+TCHOMIA,CSR de Kasenyi cité,localite,Kasenyi,node/1157932555,1.390253,30.43825,0.74,5865
+TCHOMIA,CSR de Kasenyi cité,sante,CS KASENYI,node/6374000524,1.396024,30.443042,0.65,6365
+TCHOMIA,HGR Tchomia,localite,Tchomia,node/5881250508,1.441868,30.48337,1.0,221
+TCHOMIA,HGR Tchomia,localite,Tchotum,node/1157862120,2.015361,30.837306,0.71,75024
+TCHOMIA,HGR Tchomia,localite,Zatchoni,node/1157939338,1.689722,30.516639,0.67,27977
+TCHOMIA,CSR de Sabe,localite,Sabe,node/1157938816,1.514715,30.502563,1.0,6456
+TCHOMIA,CSR de Sabe,localite,Saba,node/1157932766,1.756388,30.374926,0.75,31255
+TCHOMIA,CSR de Sabe,localite,Bambe,node/1157936671,1.592778,30.293333,0.67,21260
+TCHOMIA,CSR de Nana,localite,Nyanya,node/626497236,1.407337,27.607422,0.8,318647
+TCHOMIA,CSR de Nana,sante,CS NANA,node/6374000342,1.431893,30.472483,0.79,489
+TCHOMIA,CSR de Nana,localite,Lana,node/1157861804,2.103778,30.545389,0.75,75592
+Bambu,CTE HGR Bambu,localite,Bambu,node/1157932424,1.80157,30.23662,1.0,
+Bambu,CTE HGR Bambu,localite,Bambua,node/1157841850,3.222642,28.584802,0.91,
+Bambu,CTE HGR Bambu,localite,Badumbu,node/1156621856,1.136111,27.346111,0.83,

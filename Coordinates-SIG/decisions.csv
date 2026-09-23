@@ -1,0 +1,55 @@
+zone_sante,site,action,ref_source,ref_id,ref_latitude,ref_longitude,fiabilite,commentaire
+Bunia,Citadelle Clinique,garder,,,,,inconnue,Aucune référence publique accessible.
+Bunia,Solidaire Centre Médical,relever,,,,,,Absent des sources publiques accessibles.
+Bunia,CSR Lembabo,relever,,,,,,Absent des sources publiques accessibles. Nom d'aire de santé : tester le centroïde GRID3.
+Bunia,HGR Bunia,garder,OSM 2019,way/611897245,1.572036,30.238415,bonne,Dans l'emprise hospitalière cartographiée.
+Bunia,Rwankole Centre Hospalier,garder,,,,,inconnue,Sert de base provisoire au CTE Rwankole.
+Bunia,Bora-Uzima,relever,,,,,,Absent des sources publiques accessibles.
+Bunia,Centre Sante Cnca Saio,relever,,,,,,Absent des sources publiques accessibles. Nom d'aire de santé : tester le centroïde GRID3.
+Bunia,Centre Sante Bunia-cité,relever,,,,,,Absent des sources publiques accessibles. Nom d'aire de santé : tester le centroïde GRID3.
+Bunia,Centre Sante Rwambuzi,relever,,,,,,Absent des sources publiques accessibles. Nom d'aire de santé : tester le centroïde GRID3.
+Bunia,CT Kigonze,relever,,,,,,Structure de riposte : liste de la commission prise en charge ou relevé terrain.
+Bunia,CTE Rwankole,remplacer,liste brute ligne Rwankole Centre Hospalier,,1.5390016,30.2713003,moyenne,Valeur d'origine arrondie et à 5.5 km. Le CTE est dans l'enceinte de l'hôpital de Rwankole. Relever l'entrée du CTE.
+Bunia,Centre de Traitement Ebola (CTE) Elikia,garder,,,,,inconnue,Aucune référence publique accessible.
+Gety,HGR Getty Etat,remplacer,OSM 2019,node/3678715093,1.218399,30.156128,moyenne,Valeur d'origine sur le village Geti et sur le point Hôpital de Geti Maternité. OSM place l'HGR 2.3 km au nord-ouest avec deux emprises hospitalières.
+Gety,CSR Kagaba,garder,OSM 2019 localité,node/1157931492,1.290528,30.225111,faible,Position du village à 7 m : la structure n'a jamais été relevée.
+Gety,CSR Avekba,garder,OSM 2019 localité,node/1157931856,1.212457,30.088578,faible,Position du village Aveba à 91 m.
+Gety,CSR Olongba,garder,OSM 2019 localité,node/1157938948,1.330855,30.125550,faible,Exactement le point du village.
+Gety,CSR Songolo,garder,,,,,inconnue,Aucune référence publique accessible.
+MONGBWALU,CS Ngamau,garder,,,,,inconnue,Aucune référence publique accessible.
+MONGBWALU,CSR Lodjo,garder,,,,,inconnue,Aucune référence publique accessible.
+MONGBWALU,CS Yedy,remplacer,OSM 2019 localité,node/1157932566,2.0666081,29.9824042,faible (village),Valeur d'origine à 44.6 km du village Yedi. Position du village en attendant le relevé.
+MONGBWALU,CS Andisa,garder,,,,,inconnue,Aucune référence publique accessible.
+MONGBWALU,CTE HGR Mongbwalu,completer,OSM 2019 localité,node/3384368752,1.936853,30.045831,faible (ville),Centre-ville de Mongbwalu avec une marge d'environ 2 km. L'HGR n'est pas cartographié.
+MONGBWALU,CS Ituri,garder,,,,,inconnue,Aucune référence publique accessible.
+Nizi,HGR Nizi,garder,,,,,inconnue,Aucune référence publique accessible.
+Nizi,Lopa CS,garder,OSM 2019 localité,node/1157934089,1.737278,30.339611,faible,Position du village à 136 m.
+NIZI,CS CE39,garder,OSM 2019 localité,node/1157937327,1.735694,30.304111,inconnue,À 55 m du point de localité Iga Barrière.
+NIZI,CS HERITAGE,remplacer,OSM 2019,node/5881271255,1.728792,30.323363,moyenne,Point Heritage cartographié à 425 m de la valeur d'origine et à 58 m de la ligne CS IGA MISSION.
+NIZI,CT LINGO,relever,,,,,,Structure de riposte : liste de la commission prise en charge ou relevé terrain.
+NIZI,CS IGA MISSION,garder,OSM 2019,node/5881271255,1.728792,30.323363,faible,À 58 m du point OSM Heritage : vérifier qu'il ne s'agit pas de Heritage.
+Nyankunde,CSR de Tumbyabu,garder,,,,,inconnue,Aucune référence publique accessible.
+Nyankunde,CSR Nyankunde,garder,OSM 2019,node/2678619342,1.431464,30.032786,moyenne,À 170 m de l'hôpital de Nyankunde cartographié.
+Nyankunde,CSR Kombokabo,garder,OSM 2019 localité,node/1157931535,1.469206,30.107615,faible,Position du village à 64 m.
+Nyankunde,CSR de Cezabo,garder,,,,,inconnue,Aucune référence publique accessible.
+Nyankunde,CTE HGR Nyakunde,completer,OSM 2019,node/2678619342,1.431464,30.032786,faible (provisoire),Position de l'hôpital de Nyankunde et non de l'entrée du CTE.
+Nyankunde,CT Sota,relever,,,,,,Structure de riposte : liste de la commission prise en charge ou relevé terrain.
+Nyankunde,ISTM Nyakunde,completer,OSM 2019 éducation,node/4008476554,1.536065,30.252305,faible,Ce point est à Bunia et non à Nyankunde. À confirmer si le site utilisé est le campus de Nyankunde.
+Rwampara,CSR Dele,garder,,,,,inconnue,Aucune référence publique accessible.
+Rwampara,HGR Rwampara,garder,OSM 2019,node/4764355621,1.543457,30.179316,moyenne,À 83 m du bureau central de zone cartographié.
+Rwampara,CSR Police des frontières,relever,,,,,,Absent des sources publiques accessibles.
+Rwampara,CSR Hoho,relever,,,,,,Absent des sources publiques accessibles. Nom d'aire de santé : tester le centroïde GRID3.
+Rwampara,Centre Médical Uhuru,relever,,,,,,Absent des sources publiques accessibles.
+TCHOMIA,PS du Lac,garder,,,,,inconnue,Aucune référence publique accessible.
+TCHOMIA,NYAMAZI(CS  NYAMAZI ET PS SALAMA),completer,OSM 2019,node/6374000334,1.329314,30.380920,faible,CS NYAMAVI et PS SALAMA cartographiés à 160 m l'un de l'autre. Rattachement à Tchomia à vérifier.
+TCHOMIA,CSR de Kasenyi,remplacer,OSM 2019,node/6374000288,1.388799,30.431817,moyenne,Valeur d'origine au centre de la ville de Kasenyi à 700 m du point CSR KASENYI.
+TCHOMIA,CSR de Kasenyi cité,garder,OSM 2019 localité,node/1157932555,1.390253,30.438250,faible,À 5.9 km dans les terres alors que la cité est au bord du lac.
+TCHOMIA,HGR Tchomia,garder,,,,,inconnue,Aucune référence publique accessible.
+TCHOMIA,CSR de Sabe,garder,OSM 2019 localité,node/1157938816,1.514715,30.502563,faible,À 6.5 km du village Sabe cartographié : vérifier avant de corriger.
+TCHOMIA,CSR de Nana,remplacer,OSM 2019,node/6374000342,1.431893,30.472483,moyenne,Point CS NANA à 490 m de la valeur d'origine. Type à confirmer.
+Bambu,CTE HGR Bambu,completer,OSM 2019 localité,node/1157932424,1.801570,30.236620,faible (village),Position du village Bambu et non de l'hôpital.
+Rwampara,CME,relever,,,,,,Probablement le Centre médical évangélique de Bunia. Absent des sources publiques accessibles.
+Aru,,completer,OSM 2019 localité,node/1157861493,2.859444,30.824167,faible (chef-lieu),Chef-lieu de zone et non une structure. Le nom du site manque.
+Logo,,completer,OSM 2019 localité,node/1157862054,2.180920,30.924840,faible (chef-lieu),"Chef-lieu présumé de la zone, à confirmer. Le nom du site manque."
+Komanda,,completer,OSM 2019 localité,node/1157931875,1.366699,29.763132,faible (chef-lieu),Ville de Komanda sur la RN4. Le nom du site manque.
+Niania,,completer,"Wikipédia, localité de Nia-Nia",,1.407138,27.607355,faible (chef-lieu),"Une autre source place Nia-Nia à 1.4260, 27.6164 soit 2.3 km plus loin. Le nom du site manque."
